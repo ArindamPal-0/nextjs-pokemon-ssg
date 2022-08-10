@@ -14,9 +14,11 @@
 
 ### Vercel Deployed
 
-<a href="" target="_blank">vercel deployed link</a>
+<a href="https://nextjs-pokemon-ssg-gold.vercel.app/" target="_blank">vercel deployed link</a>
 
 to deploy on vercel just add the github repo as a project in the vercel dashboard and select the main branch. Tad tada! **Project Deployed**.
+
+<br>
 
 ### Env Setup
 
